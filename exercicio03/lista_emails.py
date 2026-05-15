@@ -18,3 +18,6 @@ def executar_metodo():
         valido = Usuario.validar_email(e)
         print(f"{e}: {'valido' if valido else 'invalido'}")
 
+def main03():
+    executar_metodo()
+main03()

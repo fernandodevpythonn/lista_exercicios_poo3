@@ -16,6 +16,4 @@ def cadastrar_usuario():
     print(f"Usuário {usuario.nome}, com o email {usuario.email}, cadastrado")
 
 def main05():
-    cadastrar_usuario()
-
-main05()
+ cadastrar_usuario()

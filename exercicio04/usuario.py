@@ -10,4 +10,3 @@ def exibir_info():
 
 def main04():
     exibir_info()
-main04()
